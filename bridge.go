@@ -13,7 +13,7 @@ import "C"
 
 import (
 	"fmt"
-	"github.com/niemeyer/qml/tref"
+	"gopkg.in/qml.v0/tref"
 	"reflect"
 	"runtime"
 	"strings"
