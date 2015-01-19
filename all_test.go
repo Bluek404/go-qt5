@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"flag"
 	"fmt"
-	"github.com/niemeyer/qml"
+	"gopkg.in/qml.v0"
 	"image/color"
 	"io/ioutil"
 	. "launchpad.net/gocheck"
